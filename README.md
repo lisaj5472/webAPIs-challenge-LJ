@@ -1,6 +1,6 @@
 # Web APIs Challenge: Personal Blog
 
-This project is a two-page personal blog website developed as part of the University of Denver Coding Boot Camp. It enables users to input and view blog posts, featuring a content form, dynamic rendering of blog entries, and a light/dark mode toggle. Some of the code and design elements were provided by the University of Denver Coding Boot Camp educational team as part of the course curriculum.&#8203;:contentReference[oaicite:2]{index=2}
+This project is a two-page personal blog website developed as part of the University of Denver Coding Boot Camp. It enables users to input and view blog posts, featuring a content form, dynamic rendering of blog entries, and a light/dark mode toggle. Some of the code and design elements were provided by the University of Denver Coding Boot Camp educational team as part of the course.
 
 ## Table of Contents
 
